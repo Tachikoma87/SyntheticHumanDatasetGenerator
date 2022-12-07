@@ -61,3 +61,5 @@ Images per Pose: 1 (+ Annotation Image)
 Render Engine: Cycles (GPU), Sampling: 16-64, Denoising: AI-based (OptiX)
 
 HDR Textures credits to: https://polyhaven.com
+
+How to use: change paths to background files (requires absolute paths)

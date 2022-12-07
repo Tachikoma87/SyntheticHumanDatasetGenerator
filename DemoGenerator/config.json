@@ -319,14 +319,14 @@
 	},
 	"Background":
 	[
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\sepulchral_chapel_basement_4k.hdr", "Weigth":1},
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\photo_studio_01_1k.hdr", "Weigth":1},
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\anniversary_lounge_4k.hdr", "Weigth":1},
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\christmas_photo_studio_01_4k.hdr", "Weigth":1},
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\cinema_lobby_4k.hdr", "Weigth":1},
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\machine_shop_02_4k.hdr", "Weigth":1},
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\sepulchral_chapel_basement_4k.hdr", "Weigth":1},
-		{"Path":"C:\\synthetic-dataset-generation\\blender\\st_fagans_interior_4k.hdr", "Weigth":1}
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\sepulchral_chapel_basement_4k.hdr", "Weigth":1},
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\photo_studio_01_1k.hdr", "Weigth":1},
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\anniversary_lounge_4k.hdr", "Weigth":1},
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\christmas_photo_studio_01_4k.hdr", "Weigth":1},
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\cinema_lobby_4k.hdr", "Weigth":1},
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\machine_shop_02_4k.hdr", "Weigth":1},
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\sepulchral_chapel_basement_4k.hdr", "Weigth":1},
+		{"Path":"C:\\Projects\\Synthetic Hand Dataset\\Repo\\DemoGenerator\\st_fagans_interior_4k.hdr", "Weigth":1}
 	],
 	"BodyRegions":
 	[
