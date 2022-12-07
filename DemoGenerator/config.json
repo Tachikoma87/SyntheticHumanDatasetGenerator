@@ -1,0 +1,2963 @@
+{
+	"SampleCount":1000,
+	"Seed":4,
+	"Rig":
+	{
+		"Armature":"Mesh01",
+		"Bones":
+		[
+			{
+				"BoneName":"index_01_l",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			{
+				"BoneName":"middle_01_l",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			{
+				"BoneName":"ring_01_l",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			{
+				"BoneName":"pinky_01_l",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			
+			{
+				"BoneName":"index_02_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"middle_02_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"ring_02_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"pinky_02_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			
+			{
+				"BoneName":"index_03_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"middle_03_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"ring_03_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"pinky_03_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			
+			{
+				"BoneName":"thumb_01_l",
+				"X":{"Min":-25, "Max":50},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-40, "Max":10}
+			},
+			{
+				"BoneName":"thumb_02_l",
+				"X":{"Min":-20, "Max":40},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"thumb_03_l",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"hand_l",
+				"X":{"Min":-45, "Max":45},
+				"Y":{"Min":-25, "Max":36}, 
+				"Z":{"Min":-90, "Max":86}
+			},
+			{
+				"BoneName":"lowerarm_l",
+				"X":{"Min":-45, "Max":120},
+				"Y":{"Min":-90, "Max":80}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"upperarm_l",
+				"X":{"Min":-100, "Max":180},
+				"Y":{"Min":-45, "Max":45}, 
+				"Z":{"Min":-45, "Max":145}
+			},
+			{
+				"BoneName":"clavicle_l",
+				"X":{"Min":-30, "Max":30},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-10, "Max":30}
+			},
+			{
+				"BoneName":"spine_01",
+				"X":{"Min":-22, "Max":34},
+				"Y":{"Min":-15, "Max":15}, 
+				"Z":{"Min":-22, "Max":22}
+			},
+			{
+				"BoneName":"spine_02",
+				"X":{"Min":-22, "Max":34},
+				"Y":{"Min":-15, "Max":15}, 
+				"Z":{"Min":-22, "Max":22}
+			},
+			{
+				"BoneName":"spine_03",
+				"X":{"Min":-45, "Max":68},
+				"Y":{"Min":-30, "Max":30}, 
+				"Z":{"Min":-45, "Max":45}
+			},
+			{
+				"BoneName":"thigh_l",
+				"X":{"Min":-140, "Max":45},
+				"Y":{"Min":-60, "Max":60}, 
+				"Z":{"Min":-80, "Max":90}
+			},
+			{
+				"BoneName":"calf_l",
+				"X":{"Min":0, "Max":150},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"foot_l",
+				"X":{"Min":-31, "Max":66},
+				"Y":{"Min":-74, "Max":15}, 
+				"Z":{"Min":-26, "Max":26}
+			},
+			{
+				"BoneName":"thigh_r",
+				"X":{"Min":-140, "Max":45},
+				"Y":{"Min":-60, "Max":60}, 
+				"Z":{"Min":-90, "Max":80}
+			},
+			{
+				"BoneName":"calf_r",
+				"X":{"Min":0, "Max":150},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"foot_r",
+				"X":{"Min":-31, "Max":66},
+				"Y":{"Min":-15, "Max":74}, 
+				"Z":{"Min":-26, "Max":26}
+			},
+			{
+				"BoneName":"neck_01",
+				"X":{"Min":-22, "Max":37},
+				"Y":{"Min":-30, "Max":30}, 
+				"Z":{"Min":-45, "Max":45}
+			},
+			{
+				"BoneName":"head",
+				"X":{"Min":-22, "Max":37},
+				"Y":{"Min":-30, "Max":30}, 
+				"Z":{"Min":-45, "Max":45}
+			},
+			
+			{
+				"BoneName":"index_01_r",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			{
+				"BoneName":"middle_01_r",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			{
+				"BoneName":"ring_01_r",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			{
+				"BoneName":"pinky_01_r",
+				"X":{"Min":-20, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-15, "Max":15}
+			},
+			
+			{
+				"BoneName":"index_02_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"middle_02_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"ring_02_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"pinky_02_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			
+			{
+				"BoneName":"index_03_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"middle_03_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"ring_03_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"pinky_03_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			
+			{
+				"BoneName":"thumb_01_r",
+				"X":{"Min":-25, "Max":50},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-10, "Max":40}
+			},
+			{
+				"BoneName":"thumb_02_r",
+				"X":{"Min":-20, "Max":40},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"thumb_03_r",
+				"X":{"Min":-10, "Max":80},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			
+			{
+				"BoneName":"hand_r",
+				"X":{"Min":-45, "Max":45},
+				"Y":{"Min":-25, "Max":36}, 
+				"Z":{"Min":-86, "Max":90}
+			},
+			{
+				"BoneName":"lowerarm_r",
+				"X":{"Min":-45, "Max":120},
+				"Y":{"Min":-80, "Max":90}, 
+				"Z":{"Min":0, "Max":0}
+			},
+			{
+				"BoneName":"upperarm_r",
+				"X":{"Min":-100, "Max":180},
+				"Y":{"Min":-45, "Max":45}, 
+				"Z":{"Min":-145, "Max":45}
+			},
+			{
+				"BoneName":"clavicle_r",
+				"X":{"Min":-30, "Max":30},
+				"Y":{"Min":0, "Max":0}, 
+				"Z":{"Min":-30, "Max":10}
+			}
+			
+		]
+	},
+	"Camera":
+	{
+		"Pitch":{"Type":"uniform", "Min":45,  "Max":100},
+		"Yaw":  {"Type":"uniform", "Min":0,   "Max":360},
+		"Zoom": {"Type":"uniform", "Min":3.0, "Max":5.0}
+	},
+	"Background":
+	[
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\sepulchral_chapel_basement_4k.hdr", "Weigth":1},
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\photo_studio_01_1k.hdr", "Weigth":1},
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\anniversary_lounge_4k.hdr", "Weigth":1},
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\christmas_photo_studio_01_4k.hdr", "Weigth":1},
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\cinema_lobby_4k.hdr", "Weigth":1},
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\machine_shop_02_4k.hdr", "Weigth":1},
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\sepulchral_chapel_basement_4k.hdr", "Weigth":1},
+		{"Path":"C:\\synthetic-dataset-generation\\blender\\st_fagans_interior_4k.hdr", "Weigth":1}
+	],
+	"BodyRegions":
+	[
+		{
+			"BodyRegion":"FingersL",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomHL",
+					"Weigth": 12,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-40, "Max":10}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FlatHL",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":-20, "Dev+":30, "Dev-":20}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FistThumbNeutralHL",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":-20, "Dev+":30, "Dev-":20}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FistThumbInHL",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"normal", "Mean":30, "Dev+":20, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":-20, "Dev+":30, "Dev-":20}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FistThumbUpHL",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"normal", "Mean":-15, "Dev+":10, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"normal", "Mean":-10, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"normal", "Mean":-10, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"IndexPointHL",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-40, "Max":10}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"MiddlePointHL",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-40, "Max":10}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"RingPointHL",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-40, "Max":10}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"PinkyPointHL",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_l",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_l",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-40, "Max":10}
+						},						
+						{
+							"BoneName":"thumb_02_l",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_l",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				}	
+			]
+		},
+		
+		{
+			"BodyRegion":"HandL",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomUniHandL",
+					"Weigth": 2,
+					"Joints":
+					[
+						{
+							"BoneName":"hand_l",
+							"X":{"Type":"uniform", "Max":45, "Min":45},
+							"Y":{"Type":"uniform", "Max":36, "Min":25}, 
+							"Z":{"Type":"uniform", "Max":86, "Min":90}
+						}
+					]
+				},
+				{
+					"BasePose":"RandomWideHandL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"hand_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":45, "Dev-":45},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":36, "Dev-":25}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":86, "Dev-":90}
+						}
+					]
+				},
+				{
+					"BasePose":"RandomNarrowHandL",
+					"Weigth": 100,
+					"Joints":
+					[
+						{
+							"BoneName":"hand_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":45, "Dev-":45}
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"BodyRegion":"ArmL",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomArmL",
+					"Weigth": 5,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_l",
+							"X":{"Type":"uniform", "Min":-30, "Max":30},
+							"Y":{"Type":"uniform", "Min":0, "Max":0}, 
+							"Z":{"Type":"uniform", "Min":-10, "Max":30}
+						},	
+						{
+							"BoneName":"upperarm_l",
+							"X":{"Type":"uniform", "Min":-100, "Max":180},
+							"Y":{"Type":"uniform", "Min":-45, "Max":45}, 
+							"Z":{"Type":"uniform", "Min":-45, "Max":145}
+						},	
+						{
+							"BoneName":"lowerarm_l",
+							"X":{"Type":"uniform", "Min":-45, "Max":120},
+							"Y":{"Type":"uniform", "Min":-90, "Max":80},
+							"Z":{"Type":"uniform", "Min":0, "Max":0}
+						}
+					]
+				},
+				{
+					"BasePose":"BreastArmL",
+					"Weigth": 30,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_l",
+							"X":{"Type":"normal", "Mean":20, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":10, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"upperarm_l",
+							"X":{"Type":"normal", "Mean":20, "Dev+":45, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":35, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":10, "Dev+":10, "Dev-":30}
+						},	
+						{
+							"BoneName":"lowerarm_l",
+							"X":{"Type":"normal", "Mean":80, "Dev+":30, "Dev-":30},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"DownArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":5, "Dev-":10}
+						},	
+						{
+							"BoneName":"upperarm_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15}, 
+							"Z":{"Type":"normal", "Mean":-25, "Dev+":20, "Dev-":20}
+						},	
+						{
+							"BoneName":"lowerarm_l",
+							"X":{"Type":"normal", "Mean":-40, "Dev+":20, "Dev-":5},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"FrontArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_l",
+							"X":{"Type":"normal", "Mean":15, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":5}
+						},	
+						{
+							"BoneName":"upperarm_l",
+							"X":{"Type":"normal", "Mean":75, "Dev+":30, "Dev-":30},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"lowerarm_l",
+							"X":{"Type":"normal", "Mean":-40, "Dev+":30, "Dev-":5},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"TPoseArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":10, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"upperarm_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":30, "Dev-":30},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":45, "Dev-":45}, 
+							"Z":{"Type":"normal", "Mean":40, "Dev+":20, "Dev-":20}
+						},	
+						{
+							"BoneName":"lowerarm_l",
+							"X":{"Type":"normal", "Mean":-40, "Dev+":30, "Dev-":5},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"TopArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":20, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"upperarm_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":35, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":-80, "Dev+":60, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":110, "Dev+":20, "Dev-":40}
+						},	
+						{
+							"BoneName":"lowerarm_l",
+							"X":{"Type":"normal", "Mean":20, "Dev+":40, "Dev-":90},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90},
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"BodyRegion":"Body",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomUniBody",
+					"Weigth": 1,
+					"Joints":
+					[
+						{
+							"BoneName":"spine_01",
+							"X":{"Type":"uniform", "Max":-22, "Min":34},
+							"Y":{"Type":"uniform", "Max":-15, "Min":15}, 
+							"Z":{"Type":"uniform", "Max":-22, "Min":22}
+						},
+						{
+							"BoneName":"spine_02",
+							"X":{"Type":"uniform", "Max":-22, "Min":34},
+							"Y":{"Type":"uniform", "Max":-15, "Min":15}, 
+							"Z":{"Type":"uniform", "Max":-22, "Min":22}
+						},
+						{
+							"BoneName":"spine_03",
+							"X":{"Type":"uniform", "Max":-45, "Min":68},
+							"Y":{"Type":"uniform", "Max":-30, "Min":30}, 
+							"Z":{"Type":"uniform", "Max":-45, "Min":45}
+						}
+					]
+				},
+				{
+					"BasePose":"FrontBody",
+					"Weigth": 1,
+					"Joints":
+					[
+						{
+							"BoneName":"spine_01",
+							"X":{"Type":"normal", "Mean":15, "Dev+":20, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"spine_02",
+							"X":{"Type":"normal", "Mean":15, "Dev+":20, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"spine_03",
+							"X":{"Type":"normal", "Mean":30, "Dev+":40, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20}
+						}
+					]
+				},
+				{
+					"BasePose":"StandBody",
+					"Weigth": 4,
+					"Joints":
+					[
+						{
+							"BoneName":"spine_01",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"spine_02",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"spine_03",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20}
+						}
+					]
+				},
+				{
+					"BasePose":"StandNarrowBody",
+					"Weigth": 8,
+					"Joints":
+					[
+						{
+							"BoneName":"spine_01",
+							"X":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						},	
+						{
+							"BoneName":"spine_02",
+							"X":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						},	
+						{
+							"BoneName":"spine_03",
+							"X":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"BodyRegion":"Leg",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomUniLeg",
+					"Weigth": 5,
+					"Joints":
+					[
+						{
+							"BoneName":"thigh_l",
+							"X":{"Type":"uniform", "Min":-140, "Max":45},
+							"Y":{"Type":"uniform", "Min":-60,  "Max":60}, 
+							"Z":{"Type":"uniform", "Min":-80,  "Max":50}
+						},
+						{
+							"BoneName":"calf_l",
+							"X":{"Type":"uniform", "Min":0, "Max":150},
+							"Y":{"Type":"uniform", "Min":0, "Max":0}, 
+							"Z":{"Type":"uniform", "Min":0, "Max":0}
+						},
+						{
+							"BoneName":"foot_l",
+							"X":{"Type":"uniform", "Min":-30, "Max":60},
+							"Y":{"Type":"uniform", "Min":-30, "Max":15}, 
+							"Z":{"Type":"uniform", "Min":-20, "Max":20}
+						},
+						{
+							"BoneName":"thigh_r",
+							"X":{"Type":"uniform", "Min":-140, "Max":45},
+							"Y":{"Type":"uniform", "Min":-60,  "Max":60}, 
+							"Z":{"Type":"uniform", "Min":-50,  "Max":80}
+						},
+						{
+							"BoneName":"calf_r",
+							"X":{"Type":"uniform", "Min":0, "Max":150},
+							"Y":{"Type":"uniform", "Min":0, "Max":0}, 
+							"Z":{"Type":"uniform", "Min":0, "Max":0}
+						},
+						{
+							"BoneName":"foot_r",
+							"X":{"Type":"uniform", "Min":-30, "Max":60},
+							"Y":{"Type":"uniform", "Min":-15, "Max":30}, 
+							"Z":{"Type":"uniform", "Min":-20, "Max":20}
+						}
+					]
+				},
+				{
+					"BasePose":"StandNarrowLegL",
+					"Weigth": 100,
+					"Joints":
+					[
+						{
+							"BoneName":"thigh_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":12, "Dev-":4}
+						},	
+						{
+							"BoneName":"calf_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":0},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						},
+						{
+							"BoneName":"thigh_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":12, "Dev-":4}
+						},	
+						{
+							"BoneName":"calf_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":0},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						}
+					]
+				},
+				{
+					"BasePose":"StepALegL",
+					"Weigth": 30,
+					"Joints":
+					[
+						{
+							"BoneName":"thigh_l",
+							"X":{"Type":"normal", "Mean":-25, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":6, "Dev-":6}, 
+							"Z":{"Type":"normal", "Mean":15, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"calf_l",
+							"X":{"Type":"normal", "Mean":20, "Dev+":25, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_l",
+							"X":{"Type":"normal", "Mean":40, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":8}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						},
+						{
+							"BoneName":"thigh_r",
+							"X":{"Type":"normal", "Mean":20, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":6, "Dev-":6}, 
+							"Z":{"Type":"normal", "Mean":5, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"calf_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":0},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_r",
+							"X":{"Type":"normal", "Mean":-20, "Dev+":10, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":8}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						}
+						
+					]
+				},
+				{
+					"BasePose":"StepBLegL",
+					"Weigth": 30,
+					"Joints":
+					[
+						{
+							"BoneName":"thigh_l",
+							"X":{"Type":"normal", "Mean":20, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":6, "Dev-":6}, 
+							"Z":{"Type":"normal", "Mean":-5, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"calf_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":0},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_l",
+							"X":{"Type":"normal", "Mean":-20, "Dev+":10, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":8}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						},
+						{
+							"BoneName":"thigh_r",
+							"X":{"Type":"normal", "Mean":-25, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":6, "Dev-":6}, 
+							"Z":{"Type":"normal", "Mean":-15, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"calf_r",
+							"X":{"Type":"normal", "Mean":20, "Dev+":25, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_r",
+							"X":{"Type":"normal", "Mean":40, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":8}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						}
+					]
+				},
+				{
+					"BasePose":"SitLegL",
+					"Weigth": 20,
+					"Joints":
+					[
+						{
+							"BoneName":"thigh_l",
+							"X":{"Type":"normal", "Mean":-60, "Dev+":25, "Dev-":25},
+							"Y":{"Type":"normal", "Mean":45, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":75, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"calf_l",
+							"X":{"Type":"normal", "Mean":90, "Dev+":20, "Dev-":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_l",
+							"X":{"Type":"normal", "Mean":0, "Dev+":40, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":8}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						},
+						{
+							"BoneName":"thigh_r",
+							"X":{"Type":"normal", "Mean":-60, "Dev+":25, "Dev-":25},
+							"Y":{"Type":"normal", "Mean":-45, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":-75, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"calf_r",
+							"X":{"Type":"normal", "Mean":90, "Dev+":20, "Dev-":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},	
+						{
+							"BoneName":"foot_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":40, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":8, "Dev-":8}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":4, "Dev-":4}
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"BodyRegion":"Head",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomUniHead",
+					"Weigth": 2,
+					"Joints":
+					[
+						{
+							"BoneName":"neck_01",
+							"X":{"Type":"uniform", "Max":37, "Min":-22},
+							"Y":{"Type":"uniform", "Max":30, "Min":-30}, 
+							"Z":{"Type":"uniform", "Max":45, "Min":-45}
+						},
+						{
+							"BoneName":"head",
+							"X":{"Type":"uniform", "Max":37, "Min":-22},
+							"Y":{"Type":"uniform", "Max":30, "Min":-30}, 
+							"Z":{"Type":"uniform", "Max":45, "Min":-45}
+						}
+					]
+				},
+				{
+					"BasePose":"RandomNarrowHead",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"neck_01",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":5, "Dev-":5}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},
+						{
+							"BoneName":"head",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":5, "Dev-":5}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"BodyRegion":"FingersR",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomHR",
+					"Weigth": 12,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-15, "Max":15}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-10, "Max":40}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FlatHR",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":20, "Dev+":20, "Dev-":30}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FistThumbNeutralHR",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":20, "Dev+":20, "Dev-":30}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FistThumbInHR",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":45, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"normal", "Mean":30, "Dev+":20, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":20, "Dev+":20, "Dev-":30}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"FistThumbUpHR",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"normal", "Mean":-15, "Dev+":10, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"normal", "Mean":-10, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"normal", "Mean":-10, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"IndexPointHR",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-10, "Max":40}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"MiddlePointHR",
+					"Weigth": 2,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-10, "Max":40}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"RingPointHR",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-10, "Max":40}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				
+				{
+					"BasePose":"PinkyPointHR",
+					"Weigth": 1,
+					"Joints":
+					[						
+						{
+							"BoneName":"index_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"index_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"index_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"middle_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"middle_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"middle_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"ring_01_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"ring_02_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"ring_03_r",
+							"X":{"Type":"normal", "Mean":55, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"pinky_01_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},						
+						{
+							"BoneName":"pinky_02_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"pinky_03_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						
+						{
+							"BoneName":"thumb_01_r",
+							"X":{"Type":"uniform", "Min":-25, "Max":50},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"uniform", "Min":-10, "Max":40}
+						},						
+						{
+							"BoneName":"thumb_02_r",
+							"X":{"Type":"uniform", "Min":-20, "Max":40},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						},
+						{
+							"BoneName":"thumb_03_r",
+							"X":{"Type":"uniform", "Min":-10, "Max":80},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				}	
+			]
+		},
+		
+		{
+			"BodyRegion":"HandR",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomUniHandR",
+					"Weigth": 2,
+					"Joints":
+					[
+						{
+							"BoneName":"hand_r",
+							"X":{"Type":"uniform", "Max":45, "Min":45},
+							"Y":{"Type":"uniform", "Max":36, "Min":25}, 
+							"Z":{"Type":"uniform", "Max":90, "Min":86}
+						}
+					]
+				},
+				{
+					"BasePose":"RandomWideHandR",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"hand_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":45, "Dev-":45},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":36, "Dev-":25}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":86}
+						}
+					]
+				},
+				{
+					"BasePose":"RandomNarrowHandR",
+					"Weigth": 100,
+					"Joints":
+					[
+						{
+							"BoneName":"hand_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":45, "Dev-":45}
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"BodyRegion":"ArmR",
+			"BasePoses":
+			[
+				{
+					"BasePose":"RandomArmR",
+					"Weigth": 5,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_r",
+							"X":{"Type":"uniform", "Min":-30, "Max":30},
+							"Y":{"Type":"uniform", "Min":0, "Max":0}, 
+							"Z":{"Type":"uniform", "Min":-30, "Max":10}
+						},	
+						{
+							"BoneName":"upperarm_r",
+							"X":{"Type":"uniform", "Min":-100, "Max":180},
+							"Y":{"Type":"uniform", "Min":-45, "Max":45}, 
+							"Z":{"Type":"uniform", "Min":-145, "Max":45}
+						},	
+						{
+							"BoneName":"lowerarm_r",
+							"X":{"Type":"uniform", "Min":-45, "Max":120},
+							"Y":{"Type":"uniform", "Min":-90, "Max":80},
+							"Z":{"Type":"uniform", "Min":0, "Max":0}
+						}
+					]
+				},
+				{
+					"BasePose":"BreastArmR",
+					"Weigth": 30,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_r",
+							"X":{"Type":"normal", "Mean":20, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":-10, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"upperarm_r",
+							"X":{"Type":"normal", "Mean":20, "Dev+":45, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":-35, "Dev+":10, "Dev-":10}, 
+							"Z":{"Type":"normal", "Mean":-10, "Dev+":30, "Dev-":10}
+						},	
+						{
+							"BoneName":"lowerarm_r",
+							"X":{"Type":"normal", "Mean":80, "Dev+":30, "Dev-":30},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"DownArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":5}
+						},	
+						{
+							"BoneName":"upperarm_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":20, "Dev-":20},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15}, 
+							"Z":{"Type":"normal", "Mean":25, "Dev+":20, "Dev-":20}
+						},	
+						{
+							"BoneName":"lowerarm_r",
+							"X":{"Type":"normal", "Mean":-40, "Dev+":20, "Dev-":5},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"FrontArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_r",
+							"X":{"Type":"normal", "Mean":15, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":5, "Dev-":15}
+						},	
+						{
+							"BoneName":"upperarm_r",
+							"X":{"Type":"normal", "Mean":75, "Dev+":30, "Dev-":30},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"lowerarm_r",
+							"X":{"Type":"normal", "Mean":-40, "Dev+":30, "Dev-":5},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"TPoseArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":10, "Dev-":10},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":-10, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"upperarm_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":30, "Dev-":30},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":45, "Dev-":45}, 
+							"Z":{"Type":"normal", "Mean":-40, "Dev+":20, "Dev-":20}
+						},	
+						{
+							"BoneName":"lowerarm_r",
+							"X":{"Type":"normal", "Mean":-40, "Dev+":30, "Dev-":5},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90}, 
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				},
+				{
+					"BasePose":"TopArmL",
+					"Weigth": 10,
+					"Joints":
+					[
+						{
+							"BoneName":"clavicle_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":15, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}, 
+							"Z":{"Type":"normal", "Mean":-20, "Dev+":10, "Dev-":10}
+						},	
+						{
+							"BoneName":"upperarm_r",
+							"X":{"Type":"normal", "Mean":0, "Dev+":35, "Dev-":15},
+							"Y":{"Type":"normal", "Mean":80, "Dev+":10, "Dev-":60}, 
+							"Z":{"Type":"normal", "Mean":-110, "Dev+":40, "Dev-":20}
+						},	
+						{
+							"BoneName":"lowerarm_r",
+							"X":{"Type":"normal", "Mean":20, "Dev+":40, "Dev-":90},
+							"Y":{"Type":"normal", "Mean":0, "Dev+":90, "Dev-":90},
+							"Z":{"Type":"normal", "Mean":0, "Dev+":0, "Dev-":0}
+						}
+					]
+				}
+			]
+		}
+
+	]
+}
