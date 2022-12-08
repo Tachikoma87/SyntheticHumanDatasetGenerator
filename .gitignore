@@ -1,1 +1,5 @@
-.blend1
+# folders
+.vs/
+
+# filetypes
+*.blend1
