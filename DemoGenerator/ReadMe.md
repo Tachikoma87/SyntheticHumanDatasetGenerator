@@ -1,65 +1,20 @@
-# DemoDataset
+# Demo Dataset
+This dataset acts as a demonstration for the capabilities of the framework. On the example of a single human model, a configuration is applied, yielding in randomized poses.  To handle complexity, the Model is split into regions with independent pose generation: Head, Body, Legs, Left Arm, Right Arm, Left Wrist, Right Wrist, Left Fingers and Right Fingers. Each region features some base poses, which one is selected per sample and evaluated to get the sub pose for this region and sample. The number of base poses are limited, to match a reasonable effort for this demo (around 8h of time for configuration from scratch). Particularly for fingers much more gestures may needed than currently provided, to get best possible AI training results. All Regions have a small chance to be completely random within the anatomic limits intentionally. This shows a possible way to maximize variance and cover poses the framework's user may didn't come up with.
 
-This dataset acts as a demonstration of the Framework abilities. 
+## Notes
+* Each animation frame in Blender represents one sample in the dataset.
+* The framework is highly configurable. Unpleasant properties, such as camera angles, bad poses, missing poses, or lack of variety can be easily adjusted in further steps of improvement.
+* Current version does NOT contain any checks for physical correctness or certain part visibility for the poses.
+* Generation is deterministic. Change the seed in configuration to get other samples.
+* In compositor (File Output Nodes) and the main script (*TextEditor->GenPoses*), as well as the configuration file, absolute paths are used, which may need to be adjusted to run the framework.
 
-On Example of only one human model, a configuration is applied, yielding in the shown (randomized) poses. 
+## Quickstart
+1. Change the paths to the background images in the *config.json* so they match your file structure. Absolute paths are required.
+    * Tag *Background* (lines 320 - 330)
+2. Open *Template.blend*
+3. Go to the Scripting tab and execute the GenPoses script.
+4. Specify the output path under *Output Properties => Output*
+5. Start *Render => Render Animation* (Ctrl + F12)
 
-To handle Complexity the Model is splitted into Regions with inidpendent Pose Generation: Head, Body, Legs, Left Arm, Rigth Arm, Left Wrist, Rigth Wrist, Left Fingers and Rigth Fingers.
-
-Each Region features some BasePoses, which one is selected per Sample and evaluated to get the sub Pose for this Region and Sample. The Number of Base Poses are limited, to match a reasonable effort for this demo (around 8h of time for configuration from scratch). Particularly for Fingers much more gestures may needed than currently provided, to get best possible AI training results.
-
-All Regions have a small chance to be completely random within the anatomic limits intentionally. This should show possible a way to maximize variance and cover poses the framworks user may didn't come up with.
-
-Finally the Rendered Images are analysed by OpenPose to mark the skeleton and detailed bones for hands. This acts as an evaluation of the interpretability by AI.
-
-##### Reminders
-
-(A1) Beside the Export and Configuration, ALL Data is contained in the Blender Project. Any additional data required can be extracted from this project using Blender.
-
-(A2) Each animation frame in Blender represents one Sample in the dataset.
-
-(B) The Framwork is highly configuratable, unpleasant Properties, like Camera angles, bad poses, missing poses or lack of varianz can be easily be adjusted in further steps of improvment.
-
-(C) Current Version does NOT contain any checks for physical correctness or certain part visibility for the poses.
-
-(D) Generation is deterministic, change the Seed in Configuration to get other Samples.
-
-(E) In Compositor (File Output Nodes) and the main Script (TextEditor->GenPoses), as well as the configuration file absolute paths are used, which may need to be adjusted to run the framework.
-
-##### List of Content
-| File | Description |
-|------|------|
-| Image/						| Rendered Images |
-| Annotation/					| Annotation Data (Bodyparts marked by Color) |
-| config.json					| Configuration File for Controlling the Dataset generation |
-| Poses.bvh						| Export of generated Poses | 
-| Mesh01.mhx2					| Make Human Export of the used Human Modell |
-| Blender/Template3.blend		| Main Project file containing Scripts, Data, etc. (to be used with Blender 2.93.0) |
-| Blender/\*.hdr				| Images for Background and Image based Ligthning |
-| Blender/textures/				| Addidtional textures required by Blender project |
-| OpenPose/						| Rendered Images annotated by OpenPose |
-| GeneratePoses_Template.py		| Blender script for pose generation (cleaned and commented code) |
-
-##### Technical Info
-
-Sample Count: 1000
-
-Resolution: 800x600
-
-Number of animated Bones: 49
-
-Number of Backgrounds: 8
-
-Generation Time: \~14s
-
-Render Time: \~43min
-
-Number of Human Models: 1
-
-Images per Pose: 1 (+ Annotation Image)
-
-Render Engine: Cycles (GPU), Sampling: 16-64, Denoising: AI-based (OptiX)
-
+### Copyright Note
 HDR Textures credits to: https://polyhaven.com
-
-How to use: change paths to background files (requires absolute paths)
