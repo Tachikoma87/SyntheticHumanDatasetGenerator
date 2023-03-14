@@ -3,11 +3,11 @@
 This is the official repository of the paper "A novel Framework for the Generation of Synthetic Datasets with Applications to Hand Detection and Segmentation". It contains the configurable framework and explanations on how to use it.
 
 <p align="center">
-    <img src="Title.jpg" alt="Title image" width="500"/><br/>
+    <img src="Title.webp" alt="Title image" width="500"/><br/>
     Examples of generated images and their respective annotation.
 </p>
 
-## List of Content
+# List of Content
 | Folder | Description |
 |------|------|
 | DemoGenerator/				| A demo generator that can also be used as a template. It shows the capabilities of our framework. |
@@ -15,7 +15,7 @@ This is the official repository of the paper "A novel Framework for the Generati
 | VideoTutorial/				| Video tutorials on how to use the framework. |
 
 
-## How to cite
+# How to cite
 Uhlmann, T., Dadgar, A., Weigand, F., and Brunnett, G. (2023). A novel framework for the generation of synthetic datasets with applications to hand detection and segmentation. *1st International Conference on Hybrid Societies* (accepted paper).
 
 ~~~
@@ -30,3 +30,12 @@ Uhlmann, T., Dadgar, A., Weigand, F., and Brunnett, G. (2023). A novel framework
     note={(accepted paper)}
 }
 ~~~
+
+# Acknowledgment
+<table style="margin-left:auto;margin-right:auto">
+    <tr>
+        <td><img href="https://hybrid-societies.org/" src="Logo_HybridSocieties.webp" alt="Logo Hybrid Societies" height="150p"/></td>
+        <td><img href="https://www.tu-chemnitz.de/" src="LogoTUChemnitz.webp" alt="Logo TU-Chemnitz" height="150p" /></td>
+    </tr>
+</table>
+This project was originally developed at Chemnitz University of Technology and funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – Project-ID 416228727 – CRC 1410.
